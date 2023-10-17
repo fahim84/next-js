@@ -52,3 +52,8 @@ npm run dev
 ![Error](./app%20screenshots/Screenshot%20(81).png)
 > Error
 
+## Vercel deployment
+[Production](https://next-js-mocha-psi.vercel.app/)
+
+[Auto domain](https://next-js-fahim-ahmeds-projects-191d26f2.vercel.app/)
+
